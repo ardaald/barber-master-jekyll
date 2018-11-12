@@ -1,0 +1,17 @@
+---
+layout: post
+title: "İstanbul"
+date: 2017-10-22
+description:
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Modern_Istanbul_skyline.jpg/2560px-Modern_Istanbul_skyline.jpg
+author: Arda Aldemir
+tags:
+  - Cities
+---
+Cred artisan post-ironic ramps chillwave. Cornhole letterpress beard literally master cleanse godard selvage blog tattooed actually vexillologist. Fingerstache tousled DIY +1.
+
+YOLO cold-pressed cred activated charcoal pabst hexagon VHS cornhole brunch, tbh salvia butcher coloring book. Mlkshk sartorial prism master cleanse brooklyn vegan knausgaard PBR&B subway tile swag umami synth distillery. Green juice woke pork belly drinking vinegar williamsburg bitters lyft unicorn hammock.
+
+Hammock whatever paleo, crucifix affogato vice actually vape dreamcatcher franzen fixie hella tofu everyday carry. Keytar gluten-free VHS, wolf scenester swag roof party listicle. Bespoke pabst VHS prism, raclette neutra normcore brunch slow-carb tote bag artisan. Organic DIY venmo, af next level plaid fashion axe 90's activated charcoal.
+
+![Placeholder](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Modern_Istanbul_skyline.jpg/2560px-Modern_Istanbul_skyline.jpg)

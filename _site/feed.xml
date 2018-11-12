@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arda Aldemir</title>
+    <description>Barber is a blog theme for Jekyll built by Thomas Vaeth for Samesies using HTML, Sass, and JavaScript.
+</description>
+    <link>http://localhost:4000</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 12 Nov 2018 18:49:17 +0100</pubDate>
+    <lastBuildDate>Mon, 12 Nov 2018 18:49:17 +0100</lastBuildDate>
+    <generator>Jekyll v3.6.3</generator>
+    
+      <item>
+        <title>Turin</title>
+        <description>&lt;p&gt;At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fyoucanbetontorino.it%2Fwp-content%2Fuploads%2F2015%2F03%2F01.jpg&amp;amp;f=1&quot; alt=&quot;Placeholder&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 22 Oct 2017 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/2017/10/22/torino/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/10/22/torino/</guid>
+        
+        <category>Cities</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Tokyo</title>
+        <description>&lt;p&gt;「Akiruno
+Akishima
+Chōfu
+Fuchū
+Fussa
+Hachiōji
+Hamura
+Higashikurume
+Higashimurayama
+Higashiyamato
+Hino
+Inagi
+Kiyose
+Kodaira
+Koganei
+Kokubunji
+Komae
+Kunitachi
+Machida
+Mitaka
+Musashimurayama
+Musashino
+Nishitōkyō
+Ōme
+Tachikawa
+Tama&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/8/8b/Sunset_over_Shinjuku.jpg&quot; alt=&quot;Placeholder&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 22 Oct 2017 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/2017/10/22/tokyo/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/10/22/tokyo/</guid>
+        
+        <category>Cities</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>London</title>
+        <description>&lt;p&gt;houses and public buildings, such as the National Gallery, are constructed from Portland stone. Some areas of the city, particularly those just west of the centre, are characterised by white stucco or whitewashed buildings. Few structures in central London pre-date the Great Fire of 1666, these being a few trace Roman remains, the Tower of London and a few scattered Tudor survivors in the City. 
+houses and public buildings, such as the National Gallery, are constructed from Portland stone. Some areas of the city, particularly those just west of the centre, are characterised by white stucco or whitewashed buildings. Few structures in central London pre-date the Great Fire of 1666, these being a few trace Roman remains, the Tower of London and a few scattered Tudor survivors in the City.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/3/3a/London_from_a_hot_air_balloon.jpg&quot; alt=&quot;Placeholder&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 22 Oct 2017 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/2017/10/22/london/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/10/22/london/</guid>
+        
+        <category>Cities</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>İstanbul</title>
+        <description>&lt;p&gt;Cred artisan post-ironic ramps chillwave. Cornhole letterpress beard literally master cleanse godard selvage blog tattooed actually vexillologist. Fingerstache tousled DIY +1.&lt;/p&gt;
+
+&lt;p&gt;YOLO cold-pressed cred activated charcoal pabst hexagon VHS cornhole brunch, tbh salvia butcher coloring book. Mlkshk sartorial prism master cleanse brooklyn vegan knausgaard PBR&amp;amp;B subway tile swag umami synth distillery. Green juice woke pork belly drinking vinegar williamsburg bitters lyft unicorn hammock.&lt;/p&gt;
+
+&lt;p&gt;Hammock whatever paleo, crucifix affogato vice actually vape dreamcatcher franzen fixie hella tofu everyday carry. Keytar gluten-free VHS, wolf scenester swag roof party listicle. Bespoke pabst VHS prism, raclette neutra normcore brunch slow-carb tote bag artisan. Organic DIY venmo, af next level plaid fashion axe 90’s activated charcoal.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Modern_Istanbul_skyline.jpg/2560px-Modern_Istanbul_skyline.jpg&quot; alt=&quot;Placeholder&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 22 Oct 2017 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/2017/10/22/istanbul/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/10/22/istanbul/</guid>
+        
+        <category>Cities</category>
+        
+        
+      </item>
+    
+  </channel>
+</rss>

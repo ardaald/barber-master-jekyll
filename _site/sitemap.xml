@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://localhost:4000/2017/10/22/istanbul/</loc>
+<lastmod>2017-10-22T00:00:00+02:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/2017/10/22/london/</loc>
+<lastmod>2017-10-22T00:00:00+02:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/2017/10/22/tokyo/</loc>
+<lastmod>2017-10-22T00:00:00+02:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/2017/10/22/torino/</loc>
+<lastmod>2017-10-22T00:00:00+02:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/404</loc>
+</url>
+<url>
+<loc>http://localhost:4000/bio/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/music/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/subscribe/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/tag/cities/</loc>
+</url>
+</urlset>
